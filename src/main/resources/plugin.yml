@@ -1,0 +1,10 @@
+name: ReportsPlugin
+version: 0.1
+author: CookieTom
+main: com.cookietom.Main
+description: Test plugin
+
+commands:
+  forcereport:
+    usage: /<command>
+    description: Creates a report
